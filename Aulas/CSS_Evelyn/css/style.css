@@ -1,0 +1,14 @@
+ body{
+  font-size: 25px ; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-align: center;
+ }
+  body{
+ background-color: rgb(236, 225, 211);
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+ h1{
+     background-color: rgb(238, 151, 151);
+ }
+ h3{
+    background-color: rgb(158, 68, 68);
+}

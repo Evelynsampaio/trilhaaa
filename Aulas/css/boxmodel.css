@@ -1,0 +1,82 @@
+ body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 40px;/*ultilizando margem como shorthand*/
+    margin-top: 40px;
+    margin-right: 40px;
+    margin-bottom: 40px;
+    margin-left: 40px;
+    border-style:outset;
+    border-width: 2px;
+    border-color: rgb(151, 11, 41);
+    /*padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px; */ 
+    padding: 10px 20px; /*atalho para definir rspectivamente preenchimnto com 40px acima e abaixo e 10 direita e esquerda*/
+
+ }
+ 
+ h1 {
+    background-color: rgb(250, 232, 210);
+    color: rgb(151, 11, 41);
+ }
+ span {
+ background-color: rgb(250, 232, 210);
+  color: rgb(151, 11, 41);
+ display:block; /*alterar a propriedade inline para inblok-line*/
+ }
+ p{
+ background-color: antiquewhite;
+ color: rgb(151, 11, 41);
+ display: inline;/*altera a propriedade para inline*/
+ }
+ div{
+    border:solid;
+    border-color: rgb(151, 11, 41);
+    margin: 4px;
+    padding: 5px;
+    background-color: antiquewhite;
+ }
+ .box1{
+    background-color: rgb(241, 189, 189);
+    width: 400px;
+    height: 50px;
+    position: static;
+    top:500px;
+    left: 500px;
+
+ }
+ .box2{
+    background-color: rgb(190, 142, 142);
+    width: 400px;
+    height: 50px;
+    position: relative;
+    top: 50px;
+    left: 550px;
+ }
+ .box3{
+    background-color: rgb(175, 111, 111);
+    width: 400px;
+    height: 50px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+
+ }
+ .box4{
+    background-color: rgb(163, 91, 91);
+    width: 400px;
+    height: 50px;
+    position: fixed;
+    top: 0px;
+    right: 0px;
+ }
+ .box5{
+    background-color: rgb(129, 55, 55);
+    width: 400px;
+    height: 50px;
+    position: sticky;
+    bottom: 200px;
+    left: 150px;
+
+ }

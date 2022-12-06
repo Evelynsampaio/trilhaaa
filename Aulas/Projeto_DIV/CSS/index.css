@@ -1,0 +1,30 @@
+
+div{
+border: solid;
+border-color:rgb(3, 87, 38) ;
+margin: 4px;
+padding: 5px;
+background-color: rgb(153, 238, 165);
+}
+.imagem{
+    border: solid;
+    margin: 6px;
+    border-color: black ;
+    padding: 20px 200px;
+    background-color: rgba(31, 204, 123, 0.178);
+
+}
+.texto{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 20px;
+    border-color: rgb(9, 46, 4);
+
+}
+
+.segundo_texto{
+border: solid;
+border-color: black;
+padding: 2px;
+background-color: rgb(136, 192, 136);
+}
+

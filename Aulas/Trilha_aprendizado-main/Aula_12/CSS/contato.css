@@ -1,0 +1,15 @@
+div{
+    border: solid;
+    border-color: darkgreen;
+    margin: 4px;
+    padding: 4;
+    background-color: rgb(206, 231, 162);
+}
+.texto{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(133, 187, 133);
+}
+.final{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(175, 194, 157);
+}

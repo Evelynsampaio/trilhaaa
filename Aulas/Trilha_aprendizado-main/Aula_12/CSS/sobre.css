@@ -1,0 +1,21 @@
+div{
+  border: solid;  
+  margin: 4px;
+  padding: 4px;
+  background-color: rgb(186, 233, 186);
+
+}
+.sobre{
+    margin: 2px;
+    padding: 1px;
+    border: solid;
+    background-color: rgb(223, 252, 237);
+}
+.texto{
+     margin: 2px;
+     border: solid;
+     background-color: rgba(21, 214, 21, 0.384);
+}
+.final{
+    background-color: rgb(59, 145, 72);
+}
